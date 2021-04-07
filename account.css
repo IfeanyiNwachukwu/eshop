@@ -56,8 +56,10 @@ form .btn:focus{
 }
 
 #loginForm{
-    left: -300px;
+    top: 120px;
+    right: 300px;
 }
 #regForm{
+    top: 120px;
     left: 0;
 }
